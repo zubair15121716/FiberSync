@@ -1,6 +1,10 @@
+<img width="201" height="67" alt="Screenshot 2025-04-02 012105" src="https://github.com/user-attachments/assets/8246e73b-6f03-4a4c-8c17-8db40634972d" />
+
 # FiberSync: Revolutionizing Textile Supply Chains with Transparency, Efficiency, and Trust
 
-<img width="200" height="100" alt="Screenshot 2024-10-30 174211" src="https://github.com/user-attachments/assets/b59ca5cc-9c83-4022-837d-c4f915079191" />
+<span>
+<img width="170" height="170" alt="Screenshot 2025-05-14 164652" src="https://github.com/user-attachments/assets/ca0b2baf-38e6-48e1-9bdc-6b8a2ba646f1" />
+</span>
 
 FiberSync is a **decentralized, blockchain-powered, and AI-driven supply chain management (SCM) platform** meticulously designed to **empower Pakistan's textile Small and Medium Enterprises (SMEs)** Our mission is to transform the textile industry by **eliminating inefficiencies, ensuring end-to-end data traceability, and replacing costly legacy systems**, thereby fostering supply chains that are transparent, agile, and trusted at every step [1-3].
 
@@ -92,3 +96,9 @@ The mobile app is tailored for on-site operations.
 • Data Entry/Inspection Interface: 
     ◦ Perform real-time data entry, inspections, and logistics coordination.
     ◦ Report issues and update the status of various supply chain activities, even in low-connectivity environments.
+
+<img width="1593" height="732" alt="image" src="https://github.com/user-attachments/assets/972e204c-2fac-425a-b925-79e0b3d963fc" />
+
+
+### Demo Video
+[- Watch The Demo Video of Whole Project Here](https://drive.google.com/file/d/16HTC7swm_UHXhU47BDB2RGa4PFXno_pX/view?usp=sharing)
