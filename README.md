@@ -8,7 +8,7 @@
 
 FiberSync is a **decentralized, blockchain-powered, and AI-driven supply chain management (SCM) platform** meticulously designed to **empower Pakistan's textile Small and Medium Enterprises (SMEs)** Our mission is to transform the textile industry by **eliminating inefficiencies, ensuring end-to-end data traceability, and replacing costly legacy systems**, thereby fostering supply chains that are transparent, agile, and trusted at every step [1-3].
 
-<img width="2150" height="1076" alt="WorkFlow" src="https://github.com/user-attachments/assets/62b31f21-c2f2-4f3a-9e54-d0a88d280d6b" />
+<img width="2239" height="1043" alt="WorkFlow" src="https://github.com/user-attachments/assets/1a5600b1-ec8b-40b4-ac92-4ca229c8ea14" />
 
 
 ## The Key Challenges 
